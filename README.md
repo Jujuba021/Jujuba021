@@ -1,19 +1,14 @@
+
+
 ### Hi there 👋
 
-<img align="right" src="https://static.wikia.nocookie.net/liberproeliis/images/6/6e/Modern_Sonic.png/revision/latest/scale-to-width-down/420?cb=20170415111955&path-prefix=pt-br">
+<img align="right" height="400" width="300" src="https://static.wikia.nocookie.net/liberproeliis/images/6/6e/Modern_Sonic.png/revision/latest/scale-to-width-down/420?cb=20170415111955&path-prefix=pt-br">
+
+<li>Bananya</li>
+
+Estou iniciando no mundo da programação, não tive muito contato ainda com as linguagens. Até o momento minhas noções são de JavaScript.
 
 
+-  <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><label> </label>Estou aprendendo JavaScript
+- <li></li> Preciso de ajuda em Python, HTML e CSS
 
-**Jujuba021/Jujuba021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
