@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<!--
+<img align="right" src="https://static.wikia.nocookie.net/liberproeliis/images/6/6e/Modern_Sonic.png/revision/latest/scale-to-width-down/420?cb=20170415111955&path-prefix=pt-br">
+
+
+
 **Jujuba021/Jujuba021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
