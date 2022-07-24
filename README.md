@@ -7,7 +7,7 @@
 Estou iniciando no mundo da programação, não tive muito contato ainda com as linguagens. Até o momento minhas noções são de JavaScript.
 
  <li><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><label> </label>Estou aprendendo JavaScript
-- <li><img align="center" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> Preciso de ajuda em Python, HTML e CSS
+ <li><img align="center" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" height="30" width ="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> Preciso de ajuda em Python, HTML e CSS
 
 
  - Meu Instagram é <a href="https://www.instagram.com/juliocesar_taube/">juliocesar_taube</a>
