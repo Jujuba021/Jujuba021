@@ -7,7 +7,7 @@
 Estou iniciando no mundo da programação, não tive muito contato ainda com as linguagens. Até o momento minhas noções são de JavaScript, HTML, CSS e atualmente estou aprendendo PHP.
 
  <li><img align="center" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg"><label> </label>Estou aprendendo PHP
- <li><img align="center" height="30" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> Preciso de ajuda em Javascript. 
+ <li><img align="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> Preciso de ajuda em Javascript. 
 
 
  - Meu Instagram é <a href="https://www.instagram.com/juliocesar_taube/">juliocesar_taube</a>
