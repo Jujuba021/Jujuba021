@@ -11,5 +11,5 @@ Estou iniciando no mundo da programação, não tive muito contato ainda com as 
 
 
  - Meu Instagram é <a href="https://www.instagram.com/juliocesar_taube/">juliocesar_taube</a>
-- Meu Discord é 𝙹𝚞𝚓𝚞𝚋𝚊#6908
+- Meu Discord é jujuba6908
 - Minha Steam é Knebel
