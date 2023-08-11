@@ -7,7 +7,9 @@
 Estou iniciando no mundo da programação, não tive muito contato ainda com as linguagens. Até o momento minhas noções são de JavaScript, HTML, CSS.
 
  <li><img align="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> Preciso de ajuda em Javascript e também as linnguagens de marcação. 
+ <br>
  <li><img align="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"> Pretendo aprender Python
+ <br>
  <li><img align="center" height="40" width ="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> Pretendo aprender C#
 
 
