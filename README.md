@@ -24,4 +24,4 @@ Minhas redes sociais:
 <br><br>
 <a href="https://twitter.com/CesarTaube"><img align="center" height="40" width ="40" src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png"></a>
 <br><br>
-<a href="https://open.spotify.com/user/l9n9xb8ifyxolaqbtjpmvwe2i"><img align="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png"></a>
+<a href="https://open.spotify.com/user/l9n9xb8ifyxolaqbtjpmvwe2i" target="blank"><img align="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png"></a>
