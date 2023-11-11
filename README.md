@@ -8,15 +8,15 @@ Estou iniciando no mundo da programação, não tive muito contato ainda com as 
 
  Linguagens que já tive contato:
  <br>
- <li><img allign="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png">   HTML
+ <img allign="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png">   HTML
  <br>
- <li><img allign="center" height="40" width ="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">   CSS
+ <img allign="center" height="40" width ="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">   CSS
  <br>
- <li><img align="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">   Javascript
+ <img align="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">   Javascript
  <br>
- <li><img align="center" height="22" width ="41" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">   PHP
+ <img align="center" height="22" width ="41" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">   PHP
  <br>
- <li><img align="center" height="40" width ="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">   C#
+ <img align="center" height="38" width ="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">   C#
  <br>
 Minhas redes sociais:
 <br><br>
