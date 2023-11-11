@@ -2,7 +2,7 @@
 
 <h2>Oi! Meu nome é Júlio César</h2>
 
-<img align="right" height="400" width="300" src="https://i.pinimg.com/originals/ed/3e/dc/ed3edc282074bb5cc7b739eace9e8153.png">
+<img align="right" height="1000" width="1700" src="https://i.pinimg.com/originals/ed/3e/dc/ed3edc282074bb5cc7b739eace9e8153.png">
 
 Estou iniciando no mundo da programação, não tive muito contato ainda com as linguagens. Até o momento minhas noções são de Front End
 
