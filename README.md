@@ -6,7 +6,7 @@
 
 Estou iniciando no mundo da programação, não tive muito contato ainda com as linguagens. Até o momento minhas noções são de Front End
 
- <li><img align="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> Preciso de ajuda em Javascript e também as linnguagens de marcação. 
+ <li><img align="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> Preciso de ajuda em Javascript e também as linguagens de marcação. 
  <br>
  <li><img align="center" height="40" width ="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> Pretendo aprender C# para criação de jogos.
  <br>
