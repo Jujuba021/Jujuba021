@@ -2,7 +2,7 @@
 
 <h2>Oi! Meu nome é Júlio César</h2>
 
-<img align="right" height="400" width="300" src="https://static.wikia.nocookie.net/liberproeliis/images/6/6e/Modern_Sonic.png/revision/latest/scale-to-width-down/420?cb=20170415111955&path-prefix=pt-br">
+<img align="right" height="400" width="300" src="https://i.pinimg.com/originals/ed/3e/dc/ed3edc282074bb5cc7b739eace9e8153.png">
 
 Estou iniciando no mundo da programação, não tive muito contato ainda com as linguagens. Até o momento minhas noções são de Front End
 
