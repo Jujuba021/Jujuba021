@@ -8,7 +8,7 @@ Estou iniciando no mundo da programação, não tive muito contato ainda com as 
 
  Linguagens que já tive contato:
  <br><br>
- <img allign="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png">   HTML
+ <img allign="center" height="40" width ="40" src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png">   HTML
  <br><br>
  <img allign="center" height="40" width ="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">   CSS
  <br><br>
