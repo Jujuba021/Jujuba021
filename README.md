@@ -10,7 +10,7 @@ Estou iniciando no mundo da programação, não tive muito contato ainda com as 
  <br><br>
  <img allign="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png">   HTML
  <br><br>
- <img allign="center" height="40" width ="30" margin-left="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">   CSS
+ <img allign="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">   CSS
  <br><br>
  <img align="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">   Javascript
  <br><br>
