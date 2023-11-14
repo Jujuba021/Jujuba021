@@ -8,11 +8,11 @@ Estou iniciando no mundo da programação, não tive muito contato ainda com as 
 
  Linguagens que já tive contato:
  <br><br>
- <img allign="center" height="50" width ="55" src="https://res.cloudinary.com/thewebmaster/image/upload/c_scale,f_auto,q_auto:best,w_516/images/html/html5.png" HTML >  
+ HTML  
  <br><br>
- <img allign="center" height="40" width ="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">   CSS
+ CSS
  <br><br>
- <img align="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">   Javascript
+ Javascript
  <br><br>
  <img align="center" height="22" width ="41" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">   PHP
  <br><br>
