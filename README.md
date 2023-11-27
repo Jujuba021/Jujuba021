@@ -12,7 +12,7 @@ Estou iniciando no mundo da programação, não tive muito contato ainda com as 
  <br><br>
  CSS
  <br><br>
- Javascript
+ <a href="https://twitter.com/CesarTaube"><img align="center" height="40" width ="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> Javascript
  <br><br>
  <img align="center" height="22" width ="41" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">   PHP
  <br><br>
